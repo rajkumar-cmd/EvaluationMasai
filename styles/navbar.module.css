@@ -1,0 +1,13 @@
+.navbar{
+    display: flex;
+    justify-content:center;
+    gap: 2rem;
+}
+.char{
+    border-radius: 10px;
+    border: 1px solid black;
+    padding: 1rem;
+}
+.char:hover{
+    background-color: rgb(197, 196, 196);
+}
